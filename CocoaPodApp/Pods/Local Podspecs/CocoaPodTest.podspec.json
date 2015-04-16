@@ -1,0 +1,17 @@
+{
+  "name": "CocoaPodTest",
+  "module_name": "CocoaPodTest",
+  "version": "0.1",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Stefan Sturm": "stefan@urkman.de"
+  },
+  "source_files": "src/*.swift",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "8.0"
+  }
+}
